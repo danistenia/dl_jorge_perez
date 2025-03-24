@@ -10,3 +10,8 @@ https://www.youtube.com/watch?v=BASByOlqqkc&list=PLBjZ-ginWc1e0_Dp4heHglsjJmacV_
 - [X] Clase 3
     - [ ] Tarea 1
 - [ ] Clase 4
+
+## Repositorio de Tareas
+
+link: https://github.com/dccuchile/CC6204/blob/master/2020/tareas/README.md
+
